@@ -1,7 +1,7 @@
 {
   "sections": {
     "main": {
-      "type": "main-product",
+      "type": "eco-product",
       "blocks": {
         "vendor": {
           "type": "text",
