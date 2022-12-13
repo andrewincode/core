@@ -1,3 +1,5 @@
 {
-    "//first_comment": "This template contains the data schema for Eco-Tech's general product page."
+    "//first_comment": "This template contains the data schema for Eco-Tech's general product page.",
+    "sections": {},
+    "order": []
 }
