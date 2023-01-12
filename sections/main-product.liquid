@@ -724,6 +724,7 @@
                     for(i=0;i<key.length;i++) {
                       bundleEle.insertAdjacentHTML('afterend', budleArr[key[i]]);
                     }
+            console.log(budleArr)
                     document.getElementById('total').innerHTML = `{{ total_price | money }}`;
                     document.getElementById('totalwithdiscount').innerHTML = `{{ total_price_dicount | money }}`;
                     document.getElementById('totalPrice').dataset.price = "{{ total_price }}";
